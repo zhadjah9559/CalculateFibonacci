@@ -1,0 +1,13 @@
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\bin\Debug\netcoreapp3.1\CalculateFibonacci.exe
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\bin\Debug\netcoreapp3.1\CalculateFibonacci.deps.json
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\bin\Debug\netcoreapp3.1\CalculateFibonacci.runtimeconfig.json
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\bin\Debug\netcoreapp3.1\CalculateFibonacci.runtimeconfig.dev.json
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\bin\Debug\netcoreapp3.1\CalculateFibonacci.dll
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\bin\Debug\netcoreapp3.1\CalculateFibonacci.pdb
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\obj\Debug\netcoreapp3.1\CalculateFibonacci.csprojAssemblyReference.cache
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\obj\Debug\netcoreapp3.1\CalculateFibonacci.AssemblyInfoInputs.cache
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\obj\Debug\netcoreapp3.1\CalculateFibonacci.AssemblyInfo.cs
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\obj\Debug\netcoreapp3.1\CalculateFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\obj\Debug\netcoreapp3.1\CalculateFibonacci.dll
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\obj\Debug\netcoreapp3.1\CalculateFibonacci.pdb
+C:\Users\zach\source\repos\CalculateFibonacci\CalculateFibonacci\obj\Debug\netcoreapp3.1\CalculateFibonacci.genruntimeconfig.cache
